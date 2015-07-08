@@ -1,0 +1,138 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.logo {
+	background-color: blue;
+	width: 60px;
+	height: 50px;
+	margin-left: 50px;
+	margin-top: 25px;
+	float: left;
+}
+
+.photo-usuario {
+	background-color: blue;
+	width: 50px;
+	height: 50px;
+	margin-left: 960px;
+	margin-top: 25px;
+	float: left;
+}
+
+.menu-usuario {
+	width: 200px;
+	height: 20px;
+	margin-top: 55px;
+	float: left;
+	background-color: yellow;
+}
+
+.arrow {
+	background-color: black;
+	height: 20px;
+	width: 20px;
+	float: left;
+	margin-top: 55px;
+}
+
+nav {
+	clear: both;
+	height: 100px;
+	width: 1270px;
+	margin-left: 75px;
+}
+
+.menu {
+	height: 50px;
+	width: 500px;
+	clear: both;
+	padding-top: 25px;
+	float: left;
+}
+
+nav ul li {
+	width: 98px;
+	height: 48px;
+	border: 1px solid black;
+	display: inline-block;
+	float: left;
+	text-align: center;
+}
+
+nav ul li:hover {
+	background-color: white;
+}
+
+nav ul li:active {
+	background-color: pink;
+}
+
+.search-box {
+	border: 1px solid black;
+	height: 33px;
+	width: 423px;
+	float: left;
+	margin-top: 32.5px;
+	margin-left: 340px;
+} 
+
+/*informações do livro*/
+
+.livro{
+	background-color: red;
+	height: 65px;
+	width: 50px;
+	float: left;
+	margin-left: 50px;
+}
+
+.livro_2{
+	background-color: red;
+	height: 65px;
+	width: 50px;
+	float: left;
+	margin-left: -50px;
+	margin-top: 75px;
+
+}
+.livro_maior{
+	background-color: red;
+	height: 400px;
+	width: 300px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+
+.avaliacao{
+	background-color: white;
+	height: 60px;
+	width: 600px;
+	float: left;
+}
+
+.botao_reserva{
+	background-color: gray;
+	height: 40px;
+	width: 100px;	
+	float: right;
+	margin: -10px 20px 0px 20px;
+}
+.resumo{
+	background-color: white;
+	height: 630px;
+	width: 1270px;
+	margin-top: 300px;
+	margin-left: 50px;
+}
+
+.center{
+	text-align: center;
+}
